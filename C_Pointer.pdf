@@ -1,0 +1,8 @@
+Pointers
+1. Write a program that declares a double, an int, and char variables. Next declare and initialize 
+a pointer to each of the three variables. Your program should then print the address of, and 
+value stored in. 
+2. Demonstrate addition of two floating type numbers by using call by address.
+3. Demonstrate pointer arithmetic by assigning pointer “ptr” to variable “a” which is having 
+value as 100 in it.Perform increment operation on pointer ptr like ptr=ptr+2 and display 
+which address that pointer ptr hold
